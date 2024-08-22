@@ -256,9 +256,6 @@ console.log( "original ", charactersNames)
 /* --EXTRA-- ESERCIZIO 10
   Crea una funzionalità che selezioni un elemento casuale dall'array "starWarsCharacters" e ne stampi in console le proprietà in modo discorsivo (a tuo piacimento).
 */
-cost randIndex = Math.floor (Math.random() * starWarsCharacters.length)
-console.log (randIndex)
-console.log ( starWarsCharacters[randIndex])
 
 
 
